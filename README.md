@@ -1,3 +1,9 @@
-# partner-project-by camper
+# partner
 
-تۆکین هەر لە index.js لە کۆتا دێر دابنێ 
+لینکی یوتوبی فێرکاریەکە
+
+https://youtube.com/channel/UCwoNd1dhk77w0w-CmIhxfKA
+
+لینکی دیسکۆرد
+
+https://discord.gg/EXCuvNd
